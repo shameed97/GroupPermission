@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Group Permission</string>
+    <string name="welcome_to_group_permission_application">Welcome to Group Permission Application</string>
+    <string name="PREFERENCES_PERMISSION">PREFERENCE_PERMISSION</string>
+    <string name="PERMISSION_CAMERA">PERMISSION_CAMERA</string>
+    <string name="PERMISSION_STORAGE">PERMISSION_STORAGE</string>
+    <string name="PERMISSION_CONTACTS">PERMISSION_CONTACTS</string>
+</resources>
